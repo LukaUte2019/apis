@@ -1,0 +1,18 @@
+{
+    "error": false,
+    "category": "Pun",
+    "type": "twopart",
+    "setup": "The other day my wife asked me to pass her lipstick, but I accidentally gave her a glue stick.",
+    "delivery": "She still isn't talking to me.",
+    "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+    },
+    "safe": true,
+    "id": 284,
+    "lang": "en"
+}
